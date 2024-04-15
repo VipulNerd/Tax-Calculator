@@ -42,3 +42,9 @@ To run the web application locally:
 
 ---
 
+# Images of Output of site according rules 
+
+## Tax calculation for income less than OR equal to 8 Lakhs:
+
+
+![E35714D5-3792-49E6-962D-2F6D410FB1E3_1_105_c](https://github.com/VipulNerd/Tax-Calculator/assets/144052913/60482901-43af-4f56-a7b2-397ae58efc67)
